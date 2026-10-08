@@ -1,3 +1,3 @@
 # What is?
 
-Angelina is you smart assistant.
+Angelina is your smart assistant.
